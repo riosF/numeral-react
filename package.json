@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "numeral-rc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "es/index.js",
   "description": "金额格式化组件，提供数字转中文大写 例如：￥200034.12 => ￥贰拾万零叁拾肆元壹角贰分",
   "repository": "riosF/numeral-react",

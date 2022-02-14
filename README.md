@@ -12,9 +12,9 @@
 Install dependencies,
 
 ```bash
-$ npm i numeral-react
+$ npm i numeral-rc
 or
-$ yarn add numeral-react
+$ yarn add numeral-rc
 ```
 
 ### API
