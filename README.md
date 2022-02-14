@@ -1,7 +1,6 @@
 # numeral-react
 
 <div>
-  <h1>numeral-react</h1>
   <p>
     <br />
     <strong>金额格式化组件，内容丰富，提供数字转中文大写 例如：￥200034.12 => ￥贰拾万零叁拾肆元壹角贰分</strong>

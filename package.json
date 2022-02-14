@@ -1,16 +1,16 @@
 {
   "private": false,
-  "name": "numeral-react",
+  "name": "numeral-rc",
   "version": "0.0.1",
   "main": "es/index.js",
   "description": "金额格式化组件，提供数字转中文大写 例如：￥200034.12 => ￥贰拾万零叁拾肆元壹角贰分",
   "repository": "riosF/numeral-react",
   "license": "MIT",
   "keywords": [
+    "numeral-rc",
     "numeral",
     "numeral-react",
     "number to chinese",
-    "金额格式化",
     "numbers"
   ],
   "homepage": "https://github.com/riosF/numeral-react",
